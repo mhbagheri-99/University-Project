@@ -1,0 +1,10 @@
+D:\Data-Structure\projects\Project2\UniversityProject\UniversityProject\bin\Debug\UniversityProject.exe.config
+C:\Users\Bat Computer\Desktop\UniversityProject\UniversityProject\bin\Debug\UniversityProject.exe.config
+C:\Users\Bat Computer\Desktop\UniversityProject\UniversityProject\bin\Debug\UniversityProject.exe
+C:\Users\Bat Computer\Desktop\UniversityProject\UniversityProject\bin\Debug\UniversityProject.pdb
+C:\Users\Bat Computer\Desktop\UniversityProject\UniversityProject\obj\Debug\UniversityProject.csprojResolveAssemblyReference.cache
+C:\Users\Bat Computer\Desktop\UniversityProject\UniversityProject\obj\Debug\UniversityProject.Form1.resources
+C:\Users\Bat Computer\Desktop\UniversityProject\UniversityProject\obj\Debug\UniversityProject.Properties.Resources.resources
+C:\Users\Bat Computer\Desktop\UniversityProject\UniversityProject\obj\Debug\UniversityProject.csproj.GenerateResource.Cache
+C:\Users\Bat Computer\Desktop\UniversityProject\UniversityProject\obj\Debug\UniversityProject.exe
+C:\Users\Bat Computer\Desktop\UniversityProject\UniversityProject\obj\Debug\UniversityProject.pdb
